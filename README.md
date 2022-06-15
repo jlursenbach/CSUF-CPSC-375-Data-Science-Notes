@@ -60,5 +60,7 @@ pdflatex lectureXX.tex
 bibtex lectureXX
 pdflatex lectureXX.tex
 ```
-
 5. Submit a pull request to have your lecture notes merged.
+
+(note) (note) instructions courtesy of Stanford Vision Lab https://github.com/StanfordVL/cs131_notes
+
