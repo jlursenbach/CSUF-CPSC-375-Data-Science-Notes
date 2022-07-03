@@ -8,7 +8,9 @@ or added feel free to include that. It could help myself, or future students.
 Anyone is welcome to contribute! 
 
 ### What is not allowed: 
-No tests, test answers, or completed assignments should be added to this repository. 
+No blank tests, test answers, or completed homework should be added to this repository.
+Projects should be ok if they are creative works and not something that can 
+have answers copy/pasted. Blank homework assignments are fine. 
 While I hope this can be a resource for myself and others, 
 that resource should and will adhere to strict academic integrity. 
 
