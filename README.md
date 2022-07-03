@@ -9,8 +9,9 @@ Anyone is welcome to contribute!
 
 ### What is not allowed: 
 No blank tests, test answers, or completed homework should be added to this repository.
-Projects should be ok if they are creative works and not something that can 
-have answers copy/pasted. Blank homework assignments are fine. 
+Uploading projects as examples and records of work should be ok and is encouraged  
+if they are creative works and not something that can have answers copy/pasted. 
+Blank homework assignments are fine. 
 While I hope this can be a resource for myself and others, 
 that resource should and will adhere to strict academic integrity. 
 
