@@ -1,6 +1,20 @@
 # Data-Science-Class-Notebook-CPSC-375-
 
-## Instructions for creating class notes
+## About this repository:
+The purpose of this repository is to act as a resource and record of the materials
+and concepts covered in this course. I try to keep my notes organized and complete as 
+possible, but it can be hard, and if you see anything that could be corrected, improved,
+or added feel free to include that. It could help myself, or future students. 
+Anyone is welcome to contribute! 
+
+### What is not allowed: 
+No tests, test answers, or completed assignments should be added to this repository. 
+While I hope this can be a resource for myself and others, 
+that resource should and will adhere to strict academic integrity. 
+
+(note) The following instructions are courtesy of Stanford Vision Lab https://github.com/StanfordVL/cs131_notes
+I will be running through them and eventually changing them to match my own notes 
+## Instructions for creating class notes:
 
 ### Overall workflow
 1. Fork this repository by clicking the "Fork" button on the top right of [this
