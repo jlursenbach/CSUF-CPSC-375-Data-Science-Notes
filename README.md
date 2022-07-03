@@ -12,8 +12,9 @@ No tests, test answers, or completed assignments should be added to this reposit
 While I hope this can be a resource for myself and others, 
 that resource should and will adhere to strict academic integrity. 
 
-(note) The following instructions are courtesy of Stanford Vision Lab https://github.com/StanfordVL/cs131_notes
-I will be running through them and eventually changing them to match my own notes 
+> (note) The following instructions are courtesy of Stanford Vision Lab https://github.com/StanfordVL/cs131_notes
+> I will be running through them and eventually customizing them for my own notes 
+
 ## Instructions for creating class notes:
 
 ### Overall workflow
