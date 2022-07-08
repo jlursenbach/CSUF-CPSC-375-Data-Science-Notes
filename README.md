@@ -1,5 +1,7 @@
 # Data-Science-Class-Notebook-CPSC-375
 
+# [CLICK HERE TO ENTER NOTEBOOK](https://github.com/jlursenbach/CSUF-CPSC-375-Data-Science-Notes/blob/main/Data%20Science/Data%20Science%20CPSC%20375.md)
+
 ## About this repository:
 The purpose of this repository is to act as a resource and record of the materials
 and concepts covered in this course. I try to keep my notes organized and complete as 
